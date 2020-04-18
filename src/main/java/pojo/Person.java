@@ -7,7 +7,7 @@
 package pojo;
 
 public class Person {
-    private String name;
+    private String name;//名字
     private int age;
 
     public Person() {
